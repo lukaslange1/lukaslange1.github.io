@@ -127,7 +127,7 @@ option{
     flex-flow:row wrap;
     position:relative;
     background-color:rgba(0,0,0,0.8);
-    padding:0.5rem 1rem;
+    padding:0.5rem 1rem; 
     margin:0 0.75rem 0.75rem 0;
     border-color:#3d4b8b;
     border-radius:.5rem;
